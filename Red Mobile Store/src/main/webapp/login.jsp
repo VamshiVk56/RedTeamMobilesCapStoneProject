@@ -153,7 +153,7 @@ margin-left: 130px !important;
 <div class="signup-form">	
 <br>
     <form action="loginAction.jsp" method="post">
-		<h2 style="color:#20BFEF;" class="hh"><b>LOG IN git changes check</b></h2>
+		<h2 style="color:#20BFEF;" class="hh"><b>LOG IN</b></h2>
 		<p class="lead">One place for all brands of Mobiles</p>
         <div class="form-group">
 			<div class="input-group">
